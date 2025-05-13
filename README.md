@@ -41,5 +41,5 @@ I am a Computer Science and Informatics Student <img src="https://media.giphy.co
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/C10743-ArtaviaM/ci0118_25a_c10743/blob/main/resources/icons/ASM.svg" title="ASM" **alt="ASM" width="40" height="40"/>
+  <img src="https://github.com/C10743-ArtaviaM/ci01118_25a_2025/tree/main/resources/icons/ASM.svg" title="ASM" **alt="ASM" width="40" height="40"/>
 </div>
