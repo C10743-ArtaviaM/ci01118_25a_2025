@@ -1,0 +1,38 @@
+// Factorial en C
+int factorial (int num) {
+  if (num == 0) {
+    return 1;
+  }
+  return (num * factorial(mum - 1));
+}
+
+int main() {
+  factorial(num);
+}
+
+/* ========================================= */
+
+_start:
+  jmp obtener.num
+
+
+
+factorial.0:
+  // Caso base
+
+
+
+obtener.num:
+
+
+
+imprimir.num:
+
+
+
+factorial;
+  CMP num, 0
+  je imprimir.num
+  dec
+  mul
+  factorial
