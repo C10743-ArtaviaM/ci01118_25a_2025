@@ -1,0 +1,28 @@
+nasm -f elf64 -o file2 file2.asm
+
+gcc -o file1.out file1.c file2.o
+
+
+
+o
+
+
+
+nasm -f elf64 -o file2 file2.asm && gcc -o file1.out file1.c file2.o
+
+
+gdb ./file1
+
+
+
+Para Debugear:
+
+nasm -f elf64 -g -F dwarf -o file2 file2.asm        o         nasm -f elf64 -g -F dwarf -o file2.o file2.asm
+
+ld -s file2.o
+
+gdb -o file1.out file1.c file2.o
+
+Si quiero Debugear
+
+gdb ./file2
